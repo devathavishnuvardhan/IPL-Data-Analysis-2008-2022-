@@ -88,7 +88,6 @@ ________________________________________
 │<br>
 ├── IPL_Analysis.ipynb<br>
 ├── matches.csv<br>
-├── deliveries.csv<br>
 ├── README.md<br>
 └── images/<br>
 ________________________________________
