@@ -85,7 +85,7 @@ Open the notebook file and click Run All Cells to execute the complete analysis.
 ________________________________________
 # Project Structure<br>
 ## IPL-Data-Analysis/<br>
-│
+│<br>
 ├── IPL_Analysis.ipynb<br>
 ├── matches.csv<br>
 ├── deliveries.csv<br>
