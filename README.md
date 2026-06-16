@@ -4,8 +4,8 @@ The objective of this project is to analyse the Indian Premier League (IPL) data
 ________________________________________
 # Dataset Source
 •	Dataset Name: IPL Dataset (2008–2022)<br>
-•	Source: Kaggle
-•	Dataset Link: https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020?resource=download
+•	Source: Kaggle>br>
+•	Dataset Link: https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020?resource=download<br>
 ________________________________________
 # Steps Taken
 ### 1. Data Collection
