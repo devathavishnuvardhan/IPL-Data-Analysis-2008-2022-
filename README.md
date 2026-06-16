@@ -86,11 +86,11 @@ ________________________________________
 # Project Structure<br>
 ## IPL-Data-Analysis/<br>
 │
-├── IPL_Analysis.ipynb
-├── matches.csv
-├── deliveries.csv
-├── README.md
-└── images/
+├── IPL_Analysis.ipynb<br>
+├── matches.csv<br>
+├── deliveries.csv<br>
+├── README.md<br>
+└── images/<br>
 ________________________________________
 # Conclusion<br>
 This project demonstrates the application of Python and data analysis techniques to explore historical IPL data. Through data cleaning, exploratory analysis, and visualization, valuable insights were obtained regarding team performance, player consistency, venue impact, and match-winning factors. The findings can assist teams, analysts, and cricket enthusiasts in making informed decisions based on historical trends.
