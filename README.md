@@ -1,5 +1,5 @@
-#IPL Data Analysis (2008–2022)
-Business Question
+# IPL Data Analysis (2008–2022)
+## Business Question
 The objective of this project is to analyse the Indian Premier League (IPL) dataset from 2008 to 2022 and uncover meaningful insights into team performance, player performance, venue influence, toss decisions, and match outcomes using Python-based Exploratory Data Analysis (EDA). The analysis aims to identify patterns that can support data-driven decision-making in cricket analytics.
 ________________________________________
 Dataset Source
